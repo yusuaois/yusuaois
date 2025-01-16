@@ -5,8 +5,7 @@
    <span style="line-height: 40px;">
    Hey there! I'm AnchialC
    </span>
-   <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=AnchialC." width='500' align="right"
-   />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=AnchialC." align="right"/>
   </div>
 </h2>
 
