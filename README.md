@@ -1,5 +1,4 @@
 <h2>
-   
    <div style="display: flex; align-items: center;">
    <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
    <span style="line-height: 40px;">
