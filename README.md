@@ -1,13 +1,11 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 <h2>
-  <span style="display: flex; align-items: center;">
-    Hey there! I'm AnchialC
-    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=AnchialC."/>
+   
+   <span style="display: flex; align-items: center;">
+   <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
+   Hey there! I'm AnchialC
+   <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=AnchialC."/>
   </span>
 </h2>
-
-
-
 
 <!-- ## 👋 &nbsp;Hey there! I'm AnC -->
 
