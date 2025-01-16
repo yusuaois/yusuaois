@@ -19,7 +19,7 @@
 💬 &nbsp;I'm always open to new opportunities and collaborations.\
 ✉️ &nbsp;You can shoot me an email at yusuaois@outlook.com! I'll try to respond as soon as I can.\
 
-<img src="./assets/Night-Coding.gif" height="160px"  align="right"/>
+<img src="./assets/Night-Coding.gif" height="150px" weight="150px" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
