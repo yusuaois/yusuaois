@@ -1,10 +1,12 @@
 <h2>
    
-   <span style="display: flex; align-items: center;">
+   <div style="display: flex; align-items: center;">
    <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
+   <span style="line-height: 40px;">
    Hey there! I'm AnchialC
+   </span>
    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=AnchialC."/>
-  </span>
+  </div>
 </h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm AnC -->
