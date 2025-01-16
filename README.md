@@ -1,6 +1,6 @@
 <h2>
    <div style="display: flex; align-items: center;">
-   <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
+   <img src="./assets/Hand%20Wave.gif" width='40' align="left"/>
    <span style="line-height: 40px;">
    Hey there! I'm AnchialC
    </span>
@@ -19,7 +19,7 @@
 💬 &nbsp;I'm always open to new opportunities and collaborations.\
 ✉️ &nbsp;You can shoot me an email at yusuaois@outlook.com! I'll try to respond as soon as I can.\
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img src="./assets/Night-Coding.gif" height="160px"  align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
