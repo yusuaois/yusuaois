@@ -19,7 +19,7 @@
 🌱 &nbsp;I'm always looking to improve my skills and learn new things.\
 ✍️ &nbsp;In my free time, I like to write blogs and articles about my experiences and learnings.\
 💬 &nbsp;I'm always open to new opportunities and collaborations.\
-✉️ &nbsp;You can shoot me an email at yusuaois@outlook.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at yusuaois@outlook.com! I'll try to respond as soon as I can.
 
 <img src="./assets/Night-Coding.gif" height="140px" weight="140px" align="right"/>
 
