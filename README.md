@@ -1,3 +1,5 @@
+![头像](assets/头像.jpg)
+
 <h2>
    <div style="display: flex; align-items: center;">
    <img src="./assets/Hand%20Wave.gif" width='40' align="left"/>
@@ -55,7 +57,7 @@
 
 <!-- ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign) -->
 
-## ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://space.bilibili.com/37213096">
@@ -70,8 +72,6 @@
 <a href="https://space.bilibili.com/37213096"><img src="https://img.shields.io/badge/-BiliBili.com-3423A6?style=flat&logo=BiliBili&logoColor=white"/></a>
 <a href="mailto:yusuaois@outlook.com"><img src="https://img.shields.io/badge/-yusuaois@outlook.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-
-![头像](assets/头像.jpg)
 
 ### 📖 &nbsp;Visitors
 
