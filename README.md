@@ -15,7 +15,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Digital Technology.\
+🎓 &nbsp;I'm currently studying Digital Technology.\
 🌱 &nbsp;I'm always looking to improve my skills and learn new things.\
 ✍️ &nbsp;In my free time, I like to write blogs and articles about my experiences and learnings.\
 💬 &nbsp;I'm always open to new opportunities and collaborations.\
@@ -71,6 +71,9 @@
 <p align="center">
 <a href="https://space.bilibili.com/37213096"><img src="https://img.shields.io/badge/-BiliBili.com-3423A6?style=flat&logo=BiliBili&logoColor=white"/></a>
 <a href="mailto:yusuaois@outlook.com"><img src="https://img.shields.io/badge/-yusuaois@outlook.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://github.com/yusuaois"><img src="https://img.shields.io/badge/-yusuaois-181717?style=flat&logo=GitHub&logoColor=white"/></a>
+<a href="https://user.qzone.qq.com/2224039939"><img src="https://img.shields.io/badge/-@忧-1DA1F2?style=flat&logo=QQ&logoColor=white"/></a>
+<a href="http://www.coolapk.com/u/10386357"><img src="https://img.shields.io/badge/-酷安-1DA1F2?style=flat&logo=Coolapk&logoColor=white"/></a>
 </p>
 
 ### 📖 &nbsp;Visitors
