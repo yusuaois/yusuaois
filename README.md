@@ -75,8 +75,6 @@
 <a href="https://space.bilibili.com/37213096"><img src="https://img.shields.io/badge/-BiliBili.com-3423A6?style=flat&logo=BiliBili&logoColor=white"/></a>
 <a href="mailto:yusuaois@outlook.com"><img src="https://img.shields.io/badge/-yusuaois@outlook.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/yusuaois"><img src="https://img.shields.io/badge/-yusuaois-181717?style=flat&logo=GitHub&logoColor=white"/></a>
-<a href="https://user.qzone.qq.com/2224039939"><img src="https://img.shields.io/badge/-@忧-1DA1F2?style=flat&logo=QQ&logoColor=white"/></a>
-<a href="http://www.coolapk.com/u/10386357"><img src="https://img.shields.io/badge/-酷安-1DA1F2?style=flat&logo=Coolapk&logoColor=white"/></a>
 </p>
 
 ### 📖 &nbsp;Visitors
