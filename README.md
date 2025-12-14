@@ -15,9 +15,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Digital Technology.\
+🎓 &nbsp;I'm currently studying something interesting about Data.\
 🌱 &nbsp;I'm always looking to improve my skills and learn new things.\
-✍️ &nbsp;In my free time, I like to write blogs and articles about my experiences and learnings.\
+✍️ &nbsp;In my free time, I like to solve some algorithum questions.\
 💬 &nbsp;I'm always open to new opportunities and collaborations.\
 ✉️ &nbsp;You can shoot me an email at yusuaois@outlook.com! I'll try to respond as soon as I can.
 
